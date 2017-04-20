@@ -1,6 +1,6 @@
 ## My Favorite Things
 
-<h2>images.jpg</h2>
+<h2>Watch Dogs 2 </h2>
 <img src="images.jpg" alt="Mountain View" style="width:304px;height:228px;">
 
 You can use the [editor on GitHub](https://github.com/lmatthews17/My-Favorite-Things/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
